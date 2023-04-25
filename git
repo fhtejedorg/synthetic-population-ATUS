@@ -1,0 +1,218 @@
+ data/.DS_Store                                     |     Bin [31m0[m -> [32m12292[m bytes
+ data/._.DS_Store                                   |     Bin [31m0[m -> [32m4096[m bytes
+ data/._external                                    |     Bin [31m0[m -> [32m4096[m bytes
+ data/._processed                                   |     Bin [31m0[m -> [32m4096[m bytes
+ data/._raw                                         |     Bin [31m0[m -> [32m4096[m bytes
+ data/external/._Activity Codes ATUS.xlsx           |     Bin [31m0[m -> [32m4096[m bytes
+ data/external/._~$Activity Codes ATUS.xlsx         |     Bin [31m0[m -> [32m4096[m bytes
+ data/external/Activity Codes ATUS.xlsx             |     Bin [31m0[m -> [32m205621[m bytes
+ data/external/~$Activity Codes ATUS.xlsx           |     Bin [31m0[m -> [32m165[m bytes
+ data/processed/._WorkSpace_01_ATUS_Analysis.RData  |     Bin [31m0[m -> [32m4096[m bytes
+ .../._WorkSpace_01_ATUS_Analysis_Approach2.RData   |     Bin [31m0[m -> [32m4096[m bytes
+ .../processed/._WorkSpace_01_ATUS_Validation.RData |     Bin [31m0[m -> [32m4096[m bytes
+ data/processed/WorkSpace_01_ATUS_Analysis.RData    |     Bin [31m0[m -> [32m13938997[m bytes
+ .../WorkSpace_01_ATUS_Analysis_Approach2.RData     |     Bin [31m0[m -> [32m13795759[m bytes
+ data/processed/WorkSpace_01_ATUS_Validation.RData  |     Bin [31m0[m -> [32m78172760[m bytes
+ data/raw/.DS_Store                                 |     Bin [31m0[m -> [32m10244[m bytes
+ data/raw/._.DS_Store                               |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/._CPS 2019                                |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/._IPUMS ATUS 2019                         |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/CPS 2019/.DS_Store                        |     Bin [31m0[m -> [32m6148[m bytes
+ data/raw/CPS 2019/._.DS_Store                      |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/CPS 2019/._usa_00002.dat                  |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/CPS 2019/._usa_00002.xml                  |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/CPS 2019/._usa_00003.dat                  |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/CPS 2019/._usa_00003.dat.gz               |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/CPS 2019/._usa_00003.xml                  |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/CPS 2019/.usa_00002.xml.swp               |     Bin [31m0[m -> [32m16384[m bytes
+ data/raw/CPS 2019/.usa_00003.xml.swp               |     Bin [31m0[m -> [32m16384[m bytes
+ data/raw/CPS 2019/usa_00002.dat                    | 3239553 [32m+++++++++++++++++[m
+ data/raw/CPS 2019/usa_00002.xml                    |    2089 [32m+[m
+ data/raw/CPS 2019/usa_00003.dat                    | 3239553 [32m+++++++++++++++++[m
+ data/raw/CPS 2019/usa_00003.dat.gz                 |     Bin [31m0[m -> [32m51441225[m bytes
+ data/raw/CPS 2019/usa_00003.xml                    |    6296 [32m+[m
+ data/raw/IPUMS ATUS 2019/._README.txt              |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/IPUMS ATUS 2019/._atus_00009.dat          |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/IPUMS ATUS 2019/._atus_00009.dat.gz       |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/IPUMS ATUS 2019/._atus_00009.xml          |     Bin [31m0[m -> [32m4096[m bytes
+ data/raw/IPUMS ATUS 2019/README.txt                |       2 [32m+[m
+ data/raw/IPUMS ATUS 2019/atus_00009.dat            |  774190 [32m++++[m
+ data/raw/IPUMS ATUS 2019/atus_00009.dat.gz         |     Bin [31m0[m -> [32m10679243[m bytes
+ data/raw/IPUMS ATUS 2019/atus_00009.xml            |    4684 [32m+[m
+ figures/.DS_Store                                  |     Bin [31m0[m -> [32m10244[m bytes
+ figures/._.DS_Store                                |     Bin [31m0[m -> [32m4096[m bytes
+ figures/._raw                                      |     Bin [31m0[m -> [32m4096[m bytes
+ figures/._validation                               |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__14_25_.png                  |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__14_25__Female.png           |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__14_25__Male.png             |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__25_44_.png                  |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__25_44__Female.png           |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__25_44__Male.png             |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__44_64_.png                  |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__44_64__Female.png           |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__44_64__Male.png             |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__64_85_.png                  |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__64_85__Female.png           |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/._WeekEnd__64_85__Male.png             |     Bin [31m0[m -> [32m4096[m bytes
+ figures/raw/WeekEnd__14_25_.png                    |     Bin [31m0[m -> [32m335748[m bytes
+ figures/raw/WeekEnd__14_25__Female.png             |     Bin [31m0[m -> [32m334827[m bytes
+ figures/raw/WeekEnd__14_25__Male.png               |     Bin [31m0[m -> [32m306643[m bytes
+ figures/raw/WeekEnd__25_44_.png                    |     Bin [31m0[m -> [32m363997[m bytes
+ figures/raw/WeekEnd__25_44__Female.png             |     Bin [31m0[m -> [32m356324[m bytes
+ figures/raw/WeekEnd__25_44__Male.png               |     Bin [31m0[m -> [32m354739[m bytes
+ figures/raw/WeekEnd__44_64_.png                    |     Bin [31m0[m -> [32m370667[m bytes
+ figures/raw/WeekEnd__44_64__Female.png             |     Bin [31m0[m -> [32m376446[m bytes
+ figures/raw/WeekEnd__44_64__Male.png               |     Bin [31m0[m -> [32m354321[m bytes
+ figures/raw/WeekEnd__64_85_.png                    |     Bin [31m0[m -> [32m354131[m bytes
+ figures/raw/WeekEnd__64_85__Female.png             |     Bin [31m0[m -> [32m352893[m bytes
+ figures/raw/WeekEnd__64_85__Male.png               |     Bin [31m0[m -> [32m323639[m bytes
+ .../._Density_Comparison_Durations_Age.png         |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Density_Comparison_Durations_Sex.png         |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Duration_Comparison.png       |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Female.(14,25].png            |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Female.(25,44].png            |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Female.(44,64].png            |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Female.(64,85].png            |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Male.(14,25].png              |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Male.(25,44].png              |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Male.(44,64].png              |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._Male.(64,85].png              |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._StartTimes_Comparison_SEX.png |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._bubble_MSE.png                |     Bin [31m0[m -> [32m4096[m bytes
+ figures/validation/._bubble_VCMSE.png              |     Bin [31m0[m -> [32m4096[m bytes
+ .../Density_Comparison_Durations_Age.png           |     Bin [31m0[m -> [32m456629[m bytes
+ .../Density_Comparison_Durations_Sex.png           |     Bin [31m0[m -> [32m450225[m bytes
+ figures/validation/Duration_Comparison.png         |     Bin [31m0[m -> [32m31266[m bytes
+ figures/validation/Female.(14,25].png              |     Bin [31m0[m -> [32m357766[m bytes
+ figures/validation/Female.(25,44].png              |     Bin [31m0[m -> [32m379032[m bytes
+ figures/validation/Female.(44,64].png              |     Bin [31m0[m -> [32m371198[m bytes
+ figures/validation/Female.(64,85].png              |     Bin [31m0[m -> [32m354016[m bytes
+ figures/validation/Male.(14,25].png                |     Bin [31m0[m -> [32m326550[m bytes
+ figures/validation/Male.(25,44].png                |     Bin [31m0[m -> [32m378900[m bytes
+ figures/validation/Male.(44,64].png                |     Bin [31m0[m -> [32m366578[m bytes
+ figures/validation/Male.(64,85].png                |     Bin [31m0[m -> [32m345377[m bytes
+ figures/validation/StartTimes_Comparison_SEX.png   |     Bin [31m0[m -> [32m502750[m bytes
+ figures/validation/bubble_MSE.png                  |     Bin [31m0[m -> [32m711158[m bytes
+ figures/validation/bubble_VCMSE.png                |     Bin [31m0[m -> [32m663395[m bytes
+ report/01_ATUS_Analysis_V03.docx                   |     Bin [31m0[m -> [32m315414[m bytes
+ .../._Comparison_Simulation_Original.png           |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Adult care.png      |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Densities_Adventure activity.png  |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Childcare.png       |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Cultural participation.png         |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Essential personal care.png        |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Densities_Essential shopping.png  |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Help at a store_facility.png       |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Help in an organization.png        |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Help in another household.png      |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Hospital visits.png |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Densities_Household travel.png    |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Look for a job.png  |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Meet people.png     |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Non-essential shopping.png         |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Other household.png |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Paid work.png       |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Religious activities.png           |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_School travel.png   |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_School.png          |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Shopping travel.png |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Densities_Socializing travel.png  |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Spend time with self.png           |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Sports.png          |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Densities_Voluntary work travel.png          |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Densities_Work travel.png     |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_Adult care.png    |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Adventure activity.png           |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_Childcare.png     |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Cultural participation.png       |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Essential personal care.png      |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Essential shopping.png           |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Help at a store_facility.png     |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Help in an organization.png      |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Help in another household.png    |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Scatterplot_Hospital visits.png   |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Scatterplot_Household travel.png  |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Scatterplot_Look for a job.png    |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_Meet people.png   |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Non-essential shopping.png       |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Scatterplot_Other household.png   |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_Paid work.png     |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Religious activities.png         |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_School travel.png |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_School.png        |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/._Scatterplot_Shopping travel.png   |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_Sleeping.png      |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Socializing travel.png           |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Spend time with self.png         |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_Sports.png        |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Scatterplot_Voluntary work travel.png        |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_0/._Scatterplot_Work travel.png   |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_0/Comparison_Simulation_Original.png  |     Bin [31m0[m -> [32m606897[m bytes
+ results/Approach_0/Densities_Adult care.png        |     Bin [31m0[m -> [32m222310[m bytes
+ .../Approach_0/Densities_Adventure activity.png    |     Bin [31m0[m -> [32m205947[m bytes
+ results/Approach_0/Densities_Childcare.png         |     Bin [31m0[m -> [32m211520[m bytes
+ .../Densities_Cultural participation.png           |     Bin [31m0[m -> [32m208933[m bytes
+ .../Densities_Essential personal care.png          |     Bin [31m0[m -> [32m282857[m bytes
+ .../Approach_0/Densities_Essential shopping.png    |     Bin [31m0[m -> [32m224919[m bytes
+ .../Densities_Help at a store_facility.png         |     Bin [31m0[m -> [32m253713[m bytes
+ .../Densities_Help in an organization.png          |     Bin [31m0[m -> [32m227553[m bytes
+ .../Densities_Help in another household.png        |     Bin [31m0[m -> [32m226967[m bytes
+ results/Approach_0/Densities_Hospital visits.png   |     Bin [31m0[m -> [32m214645[m bytes
+ results/Approach_0/Densities_Household travel.png  |     Bin [31m0[m -> [32m247700[m bytes
+ results/Approach_0/Densities_Look for a job.png    |     Bin [31m0[m -> [32m219063[m bytes
+ results/Approach_0/Densities_Meet people.png       |     Bin [31m0[m -> [32m257757[m bytes
+ .../Densities_Non-essential shopping.png           |     Bin [31m0[m -> [32m252160[m bytes
+ results/Approach_0/Densities_Other household.png   |     Bin [31m0[m -> [32m248701[m bytes
+ results/Approach_0/Densities_Paid work.png         |     Bin [31m0[m -> [32m256779[m bytes
+ .../Approach_0/Densities_Religious activities.png  |     Bin [31m0[m -> [32m271650[m bytes
+ results/Approach_0/Densities_School travel.png     |     Bin [31m0[m -> [32m196131[m bytes
+ results/Approach_0/Densities_School.png            |     Bin [31m0[m -> [32m185781[m bytes
+ results/Approach_0/Densities_Shopping travel.png   |     Bin [31m0[m -> [32m277430[m bytes
+ results/Approach_0/Densities_Sleeping.png          |     Bin [31m0[m -> [32m350271[m bytes
+ .../Approach_0/Densities_Socializing travel.png    |     Bin [31m0[m -> [32m272892[m bytes
+ .../Approach_0/Densities_Spend time with self.png  |     Bin [31m0[m -> [32m351095[m bytes
+ results/Approach_0/Densities_Sports.png            |     Bin [31m0[m -> [32m255409[m bytes
+ .../Approach_0/Densities_Voluntary work travel.png |     Bin [31m0[m -> [32m282891[m bytes
+ results/Approach_0/Densities_Work travel.png       |     Bin [31m0[m -> [32m248446[m bytes
+ results/Approach_0/Scatterplot_Adult care.png      |     Bin [31m0[m -> [32m238523[m bytes
+ .../Approach_0/Scatterplot_Adventure activity.png  |     Bin [31m0[m -> [32m214561[m bytes
+ results/Approach_0/Scatterplot_Childcare.png       |     Bin [31m0[m -> [32m293677[m bytes
+ .../Scatterplot_Cultural participation.png         |     Bin [31m0[m -> [32m203225[m bytes
+ .../Scatterplot_Essential personal care.png        |     Bin [31m0[m -> [32m397422[m bytes
+ .../Approach_0/Scatterplot_Essential shopping.png  |     Bin [31m0[m -> [32m279934[m bytes
+ .../Scatterplot_Help at a store_facility.png       |     Bin [31m0[m -> [32m220642[m bytes
+ .../Scatterplot_Help in an organization.png        |     Bin [31m0[m -> [32m189731[m bytes
+ .../Scatterplot_Help in another household.png      |     Bin [31m0[m -> [32m269210[m bytes
+ results/Approach_0/Scatterplot_Hospital visits.png |     Bin [31m0[m -> [32m206308[m bytes
+ .../Approach_0/Scatterplot_Household travel.png    |     Bin [31m0[m -> [32m309778[m bytes
+ results/Approach_0/Scatterplot_Look for a job.png  |     Bin [31m0[m -> [32m202120[m bytes
+ results/Approach_0/Scatterplot_Meet people.png     |     Bin [31m0[m -> [32m338919[m bytes
+ .../Scatterplot_Non-essential shopping.png         |     Bin [31m0[m -> [32m309135[m bytes
+ results/Approach_0/Scatterplot_Other household.png |     Bin [31m0[m -> [32m346615[m bytes
+ results/Approach_0/Scatterplot_Paid work.png       |     Bin [31m0[m -> [32m316733[m bytes
+ .../Scatterplot_Religious activities.png           |     Bin [31m0[m -> [32m277078[m bytes
+ results/Approach_0/Scatterplot_School travel.png   |     Bin [31m0[m -> [32m188596[m bytes
+ results/Approach_0/Scatterplot_School.png          |     Bin [31m0[m -> [32m200241[m bytes
+ results/Approach_0/Scatterplot_Shopping travel.png |     Bin [31m0[m -> [32m333230[m bytes
+ results/Approach_0/Scatterplot_Sleeping.png        |     Bin [31m0[m -> [32m417051[m bytes
+ .../Approach_0/Scatterplot_Socializing travel.png  |     Bin [31m0[m -> [32m310636[m bytes
+ .../Scatterplot_Spend time with self.png           |     Bin [31m0[m -> [32m406955[m bytes
+ results/Approach_0/Scatterplot_Sports.png          |     Bin [31m0[m -> [32m265189[m bytes
+ .../Scatterplot_Voluntary work travel.png          |     Bin [31m0[m -> [32m266178[m bytes
+ results/Approach_0/Scatterplot_Work travel.png     |     Bin [31m0[m -> [32m328429[m bytes
+ results/Approach_1/._Scatterplot_Paid work.png     |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Triangular_StartTimes_Combined.csv           |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Weekly_Probability_Activity_Combined.Rdata   |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Weekly_Probability_Activity_Combined.csv     |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Weekly_Probability_Activity_Single.Rdata     |     Bin [31m0[m -> [32m4096[m bytes
+ .../._Weekly_Probability_Activity_Single.csv       |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_1/._activities_vector.Rdata       |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_1/._df_combined_target_profiles.Rdata |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_1/._df_days.Rdata                 |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_1/._list_estimates_daily.Rdata    |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_1/._list_estimates_hourly.Rdata   |     Bin [31m0[m -> [32m4096[m bytes
+ .../._list_indicators_consolidated.Rdata           |     Bin [31m0[m -> [32m4096[m bytes
+ results/Approach_1/._target_profiles.Rdata         |     Bin [31m0[m -> [32m4096[m bytes
+ .../Approach_1/Comparison_Simulation_Original.png  |     Bin [31m0[m -> [32m580001[m bytes
+ .../Daily_Pro
